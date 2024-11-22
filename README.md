@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
+  <img alt="Logo - Rocketseat" src="assets/.github/logo.png" width="200px" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="assets/.github/preview.png" width="60%">
 </p>
 
 
